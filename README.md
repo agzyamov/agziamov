@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rustem Agzyamov
 - 👀 I’m interested in Software Architecture
-- 🌱 I’m currently learning Software Architecture Patterns and Tools
-- 💞️ I’m looking to collaborate on projetcs of building Software Architecture
+- 🌱 I’m currently learning MACH Architecture and platforms
+- 💞️ I’m looking to collaborate on eCommerce projetcs with MACH architecture
 - 📫 How to reach me https://t.me/agzyamov
 
 <!---
