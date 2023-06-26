@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rustem Agzyamov
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python for Data Analysts
+- 👋 Hi, I’m Rustem Agziamov
+- 👀 I’m interested in Business, System and Data Analysis
+- 🌱 I’m currently learning Google Cloud Platform
 - 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me https://t.me/agzyamov
 
